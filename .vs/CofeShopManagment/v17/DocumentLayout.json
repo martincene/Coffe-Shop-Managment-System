@@ -1,0 +1,648 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Romi\\AppData\\Local\\Temp\\2ykiky4q..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\cashierordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashierordersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\cashierorderformproddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashierorderformproddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\cashierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\cashiercustomersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashiercustomersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\adminaddproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminaddproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\adminaddproducts.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminaddproducts.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\adminaddproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminaddproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\cashierorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashierorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|C:\\Users\\Romi\\Desktop\\CofeShopManagment\\cofeshopmanagment\\cashierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashierorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|C:\\Users\\Romi\\Desktop\\CofeShopManagment\\cofeshopmanagment\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|C:\\Users\\Romi\\Desktop\\CofeShopManagment\\cofeshopmanagment\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\cashiermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashiermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|C:\\Users\\Romi\\Desktop\\CofeShopManagment\\cofeshopmanagment\\cashiercustomersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashiercustomersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\cashiercustomersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cashiercustomersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\cofeshopmanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\cofeshopmanagment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|C:\\Users\\Romi\\Desktop\\CofeShopManagment\\cofeshopmanagment\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|C:\\Users\\Romi\\Desktop\\CofeShopManagment\\cofeshopmanagment\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|C:\\Users\\Romi\\Desktop\\CofeShopManagment\\cofeshopmanagment\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\adminaddusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\adminaddusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|C:\\Users\\Romi\\Desktop\\CofeShopManagment\\cofeshopmanagment\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|C:\\Users\\Romi\\Desktop\\CofeShopManagment\\cofeshopmanagment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|c:\\users\\romi\\desktop\\cofeshopmanagment\\cofeshopmanagment\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A0D1086C-F0DA-4085-96AB-0F6CF6D78565}|CofeShopManagment\\CofeShopManagment.csproj|solutionrelative:cofeshopmanagment\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Romi\\AppData\\Local\\Temp\\2ykiky4q..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Romi\\AppData\\Local\\Temp\\2ykiky4q..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\Form1.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\Form1.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\Form1.cs",
+              "RelativeToolTip": "CofeShopManagment\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:37:55.369Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminAddProductsData.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProductsData.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminAddProductsData.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProductsData.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminAddProductsData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:38:46.79Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CashierMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierMainForm.Designer.cs",
+              "RelativeToolTip": "CofeShopManagment\\CashierMainForm.Designer.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAEwPQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:10:50.363Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CashierOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrderForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierOrderForm.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrderForm.cs",
+              "RelativeToolTip": "CofeShopManagment\\CashierOrderForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:10:01.777Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminAddProducts.resx",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProducts.resx",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminAddProducts.resx",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProducts.resx",
+              "RelativeToolTip": "CofeShopManagment\\AdminAddProducts.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-24T15:34:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Romi\\AppData\\Local\\Temp\\2ykiky4q..sql",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\2ykiky4q..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-23T22:39:25.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CashierMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierMainForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierMainForm.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierMainForm.cs [Design]",
+              "RelativeToolTip": "CofeShopManagment\\CashierMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:16:33.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminMainForm.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminMainForm.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:59:02.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminMainForm.Designer.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminMainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:58:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CashierMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierMainForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierMainForm.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierMainForm.cs",
+              "RelativeToolTip": "CofeShopManagment\\CashierMainForm.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv28AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:05:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "CofeShopManagment\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:11:57.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "CofeShopManagment\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\SQLQuery1.sql",
+              "RelativeToolTip": "CofeShopManagment\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-28T15:52:36.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\Program.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\Program.cs",
+              "RelativeToolTip": "CofeShopManagment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:00:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CashierCustomersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierCustomersForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierCustomersForm.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierCustomersForm.cs [Design]",
+              "RelativeToolTip": "CofeShopManagment\\CashierCustomersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:59:38.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CashierCustomersForm.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierCustomersForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierCustomersForm.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierCustomersForm.cs",
+              "RelativeToolTip": "CofeShopManagment\\CashierCustomersForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:59:42.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CashierCustomersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierCustomersForm.Designer.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierCustomersForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierCustomersForm.Designer.cs",
+              "RelativeToolTip": "CofeShopManagment\\CashierCustomersForm.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:00:04.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CofeShopManagment.csproj",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CofeShopManagment.csproj",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CofeShopManagment.csproj",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CofeShopManagment.csproj",
+              "RelativeToolTip": "CofeShopManagment\\CofeShopManagment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T15:11:24.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersData.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CustomersData.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CustomersData.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CustomersData.cs",
+              "RelativeToolTip": "CofeShopManagment\\CustomersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:54:42.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CashierOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrderForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierOrderForm.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrderForm.cs [Design]",
+              "RelativeToolTip": "CofeShopManagment\\CashierOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:20:42.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminAddProducts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminAddProducts.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProducts.cs [Design]",
+              "RelativeToolTip": "CofeShopManagment\\AdminAddProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:02:39.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "CofeShopManagment\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:55:37.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CashierOrdersData.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrdersData.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierOrdersData.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrdersData.cs",
+              "RelativeToolTip": "CofeShopManagment\\CashierOrdersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T03:07:59.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminAddUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminAddUsers.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddUsers.cs [Design]",
+              "RelativeToolTip": "CofeShopManagment\\AdminAddUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:23:14.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminDashboard.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminDashboard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:37:02.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminAddProducts.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProducts.Designer.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminAddProducts.Designer.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProducts.Designer.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminAddProducts.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:04:06.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminAddProducts.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminAddProducts.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddProducts.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminAddProducts.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:03:32.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminAddUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminAddUsers.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddUsers.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminAddUsers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:14:32.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminAddUsers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddUsers.Designer.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminAddUsers.Designer.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddUsers.Designer.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminAddUsers.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:02:01.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminAddUsersData.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddUsersData.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminAddUsersData.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminAddUsersData.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminAddUsersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:54:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\RegisterForm.cs",
+              "RelativeToolTip": "CofeShopManagment\\RegisterForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:16:24.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "CofeShopManagment\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:12:34.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\Form1.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CofeShopManagment\\CofeShopManagment\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\User\\Desktop\\CofeShopManagment\\CofeShopManagment\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:12:01.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CofeShopManagment\\CofeShopManagment\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\User\\Desktop\\CofeShopManagment\\CofeShopManagment\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:51:54.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CashierOrderFormProdData.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrderFormProdData.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierOrderFormProdData.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrderFormProdData.cs",
+              "RelativeToolTip": "CofeShopManagment\\CashierOrderFormProdData.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:14:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CashierOrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\CashierOrderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\CashierOrderForm.Designer.cs",
+              "RelativeToolTip": "CofeShopManagment\\CashierOrderForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:08:01.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "CofeShopManagment\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:11:06.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CofeShopManagment\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Romi\\Desktop\\CofeShopManagment\\CofeShopManagment\\Form1.Designer.cs",
+              "RelativeToolTip": "CofeShopManagment\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:33:46.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
